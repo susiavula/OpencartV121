@@ -1,0 +1,57 @@
+21:35:' 36. 748 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.
+21:35:' 36. 812 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest 
+21:35:' 37. 032 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+21:35:' 37. 050 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+21:36:' 10. 370 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\crossbrowsertesting.xml"
+21:36:' 10. 649 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\crossbrowsertesting.xml
+
+21:36:' 13. 274 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+21:36:' 13. 406 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount Link
+21:36:' 13. 818 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on RegisterLink
+21:36:' 13. 820 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+21:36:' 14. 613 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.
+21:36:' 15. 301 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest 
+21:36:' 15. 503 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+21:36:' 15. 522 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+21:36:' 32. 366 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\crossbrowsertesting.xml"
+21:36:' 32. 557 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\crossbrowsertesting.xml
+
+21:36:' 34. 857 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+21:36:' 35. 005 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount Link
+21:36:' 35. 537 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on RegisterLink
+21:36:' 35. 538 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+21:36:' 36. 748 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.
+21:36:' 36. 797 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest 
+21:36:' 45. 181 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+21:36:' 45. 344 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount Link
+21:36:' 45. 726 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on RegisterLink
+21:36:' 45. 726 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+21:36:' 46. 378 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.
+21:36:' 47. 060 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest 
+21:36:' 47. 258 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+10:38:' 29. 084 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\grid-docker.xml"
+10:41:' 05. 047 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\grid-docker.xml"
+10:41:' 05. 304 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\grid-docker.xml
+
+10:41:' 05. 564 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+10:44:' 33. 708 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\grid-docker.xml"
+10:44:' 33. 885 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\grid-docker.xml
+
+10:44:' 34. 097 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+10:47:' 43. 405 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\grid-docker.xml"
+10:47:' 43. 570 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\grid-docker.xml
+
+10:47:' 43. 750 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+10:49:' 57. 153 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\grid-docker.xml"
+10:49:' 57. 322 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\grid-docker.xml
+
+14:01:' 05. 969 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\grid-docker.xml"
+14:01:' 06. 179 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\grid-docker.xml
+

@@ -1,0 +1,65 @@
+21:22:' 33. 864 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml
+
+21:22:' 56. 366 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml"
+21:22:' 56. 662 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml
+
+21:24:' 37. 692 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml"
+21:24:' 37. 893 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml
+
+21:29:' 41. 879 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml"
+21:29:' 42. 048 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml
+
+21:32:' 18. 809 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml"
+21:32:' 18. 987 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml
+
+21:32:' 33. 226 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest ** 
+21:32:' 33. 226 [main] INFO  testCases.TC002_LoginTest -  Click My Account  
+21:32:' 33. 376 [main] INFO  testCases.TC002_LoginTest - Click on Login  
+21:32:' 33. 690 [main] INFO  testCases.TC002_LoginTest - set values in Login  
+21:32:' 34. 043 [main] INFO  testCases.TC002_LoginTest -  My Account Page 
+21:32:' 34. 714 [main] INFO  testCases.TC002_LoginTest -  Test Case TC002_LoginTest is Finished.. 
+21:32:' 53. 248 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml"
+21:32:' 53. 418 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml
+
+21:32:' 58. 340 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+21:32:' 58. 606 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount Link
+21:32:' 58. 956 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on RegisterLink
+21:32:' 58. 980 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+21:33:' 00. 459 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.
+21:33:' 00. 502 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest 
+21:33:' 05. 725 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest ** 
+21:33:' 05. 726 [main] INFO  testCases.TC002_LoginTest -  Click My Account  
+21:33:' 05. 985 [main] INFO  testCases.TC002_LoginTest - Click on Login  
+21:33:' 06. 343 [main] INFO  testCases.TC002_LoginTest - set values in Login  
+21:33:' 07. 330 [main] INFO  testCases.TC002_LoginTest -  My Account Page 
+21:33:' 07. 380 [main] INFO  testCases.TC002_LoginTest -  Test Case TC002_LoginTest is Finished.. 
+21:34:' 09. 777 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml"
+21:34:' 10. 030 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\master.xml
+
+21:34:' 26. 199 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+21:34:' 26. 400 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount Link
+21:34:' 26. 779 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on RegisterLink
+21:34:' 26. 780 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+21:34:' 28. 184 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.
+21:34:' 28. 222 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest 
+21:34:' 32. 919 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest ** 
+21:34:' 32. 919 [main] INFO  testCases.TC002_LoginTest -  Click My Account  
+21:34:' 33. 120 [main] INFO  testCases.TC002_LoginTest - Click on Login  
+21:34:' 33. 433 [main] INFO  testCases.TC002_LoginTest - set values in Login  
+21:34:' 34. 604 [main] INFO  testCases.TC002_LoginTest -  My Account Page 
+21:34:' 34. 664 [main] INFO  testCases.TC002_LoginTest -  Test Case TC002_LoginTest is Finished.. 
+21:35:' 30. 624 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avulasusi\Myworkspace\OpencartV121\crossbrowsertesting.xml"
+21:35:' 30. 830 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avulasusi\Myworkspace\OpencartV121\crossbrowsertesting.xml
+
+21:35:' 34. 825 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting  TC001_AccountRegistrationTest ***
+21:35:' 34. 939 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount Link
+21:35:' 35. 391 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on RegisterLink
+21:35:' 35. 393 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
